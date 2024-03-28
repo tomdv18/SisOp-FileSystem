@@ -4,9 +4,9 @@ Repositorio para el esqueleto del [TP: filesystem](https://fisop.github.io/websi
 
 > Sistema de archivos tipo FUSE.
 
-## Respuestas teóricas
+## Para más detalles sobre la implementación
 
-Utilizar el archivo `fisopfs.md` provisto en el repositorio
+Leer el archivo `fisopfs.md` provisto en el repositorio
 
 ## Compilar
 
