@@ -63,10 +63,4 @@ Existen tres _targets_ en el archivo `Makefile` para utilizar _docker_.
 - `docker-attach`: permite vincularse al mismo _container_ anterior para poder realizar pruebas
    - acá se puede ingresar al directorio `prueba`
 
-## Linter
 
-```bash
-$ make format
-```
-
-Para efectivamente subir los cambios producidos por el `format`, hay que `git add .` y `git commit`.
